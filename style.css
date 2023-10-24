@@ -1,0 +1,47 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+p {
+    color: brown;
+}
+
+
+
+.paragrafo {
+    border: 1px solid #0ff;
+    color: royalblue;
+    margin-top: 16px;
+
+}
+#tituloh2 {
+    color: greenyellow;
+    margin-bottom: 1rem;
+}
+main{
+    margin-top: 25px;
+}
+
+.login-form input{
+    font-size: 2rem;
+    color: yellow;
+}
+
+
+input[type="password"] {
+    font-size: 3rem;
+
+}
+
+.login-form > input {
+    color: green;
+    width: 10rem;
+}
+
+.cadastro-form  div:nth-of-type(2) {
+    background: #00f;
+}
